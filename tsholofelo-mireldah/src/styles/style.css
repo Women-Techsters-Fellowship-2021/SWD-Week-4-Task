@@ -1,0 +1,74 @@
+
+body {
+    font-family: Arial;
+    font-size: 17px;
+ 
+  } 
+  
+  .container {
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+      width: 100%;
+       max-width: 600px;
+         font-family: Century Gothic;
+            height: auto;
+  }
+  
+  input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .icon-container {
+    margin-bottom: 20px;
+    padding: 7px 0;
+    font-size: 24px;
+  }
+  
+  .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+  }
+  
+  .listSt {
+   color:Red;
+  }
+  
+  li {
+    float: left;
+    padding: 5px;
+    margin-left: 92px;
+    width: 324px;
+    text-align: left;
+    border-bottom: 1px solid #666;
+    margin-bottom: 10px;
+  }
+  .description{
+    margin: 0px; 
+    width: 510px;
+    height: 90px;
+  }
+   
+  img {
+    float: right;
+    padding: 8px;
+    width: 30px;
+    height: 30px;
+  }
