@@ -1,0 +1,20 @@
+.todo-item {
+    margin: 10px;
+}
+
+.todo-item input{
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.todo-item p {
+    margin: 5px;
+    max-width: 90%;
+    word-wrap: break-word;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}

@@ -1,0 +1,24 @@
+
+
+.todo-list-container {
+  background-color: cornsilk;
+  border: 1px solid gray;
+  border-radius: 10px;
+  box-shadow: 0 5px 5px 1px rgb(179, 175, 175);
+  padding: 10px;
+  height: auto;
+  min-height: 40vh;
+  width: 60vw;
+  margin: auto;
+  margin-top: 20px;
+  text-align: start;
+}
+
+li {
+    list-style-type: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+
+}
+

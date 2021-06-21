@@ -1,0 +1,31 @@
+
+
+.todo-form-box {
+  
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-form {
+  background-color: cornsilk;
+  border: 1px solid gray;
+  border-radius: 10px;
+  box-shadow: 0 5px 5px 1px rgb(179, 175, 175);
+  padding: 15px;
+  height: auto;
+  min-height: 30vh;
+  width: 40vw;
+  margin: auto;
+
+  display: grid;
+  justify-content: center;
+  align-items: center ;
+}
+
+#input-btn {
+ max-width: fit-content;
+ background-color: lime;
+
+}
+
