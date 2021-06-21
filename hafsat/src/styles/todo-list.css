@@ -1,0 +1,35 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  max-width: 400px;
+  margin: 1em auto;
+}
+
+li {
+  background-color: cornsilk;
+  padding: 0.25rem 1rem;
+  margin-bottom: 0.75rem;
+}
+
+li > .title {
+  text-decoration: underline;
+  font-size: 150%;
+  font-weight: 300;
+}
+
+li > .description {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+li > button.btn {
+  border: 0;
+}
+
+li > button + button {
+  margin-left: 0.75rem;
+}
+
+.remove {
+  background-color: rgb(161, 23, 23);
+}
