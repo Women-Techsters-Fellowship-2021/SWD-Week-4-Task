@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(59, 124, 136);
+}
+
+.app{
+  background-color: #214d75;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+
+#to-do input{
+  background-color: rgb(27,112,137);
+  border: 0;
+  width: 200px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: white;
+}
+
+#to-do input::placeholder{
+  color: rgba(255,255,255,0.5);
+}
+
+#to-do input:focus{
+  outline: none;
+}
+
